@@ -32,12 +32,5 @@ music.play(music.tonePlayable(262, music.beat(BeatFraction.Whole)), music.Playba
 
 ```
 
-## Step 1 - Explore
-
-Erstelle Dein eigenes digitales Namensschild mit dem micro:bit! Schau selbst nach welche Blöcke zu brauchen könntest!
-
-~hint Hilfe
-  -  Hilfe 1
-  -  Hilfe 2
-hint~
+## Erstelle Dein eigenes digitales Namensschild mit dem micro:bit!
 ### @hideDone true
