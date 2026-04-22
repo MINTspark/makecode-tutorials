@@ -33,4 +33,6 @@ music.play(music.tonePlayable(262, music.beat(BeatFraction.Whole)), music.Playba
 ```
 
 ## Erstelle Dein eigenes digitales Namensschild mit dem micro:bit!
+Verwende diese **"Input"** Ereignisse: Knopf A, Knopf B, Knopf A+B, schütteln **V2:** es its laut, Logo gedrückt  
+Verwende diese **"Output"** Möglichkeiten: Zeige Text, Zeige Zahl, Zeige ein Bild (LEDs oder Symbol) **V2:** Spiele eine Melodie
 ### @hideDone true
